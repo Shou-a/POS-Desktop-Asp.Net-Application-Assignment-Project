@@ -1,0 +1,8 @@
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\bin\Debug\FPMAMLDataAccess.dll.config
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\bin\Debug\FPMAMLDataAccess.dll
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\bin\Debug\FPMAMLDataAccess.pdb
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\obj\Debug\FPMAML DataAccess.csprojAssemblyReference.cache
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\obj\Debug\FPMAML DataAccess.csproj.CoreCompileInputs.cache
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\obj\Debug\FPMAML DataAccess.csproj.CopyComplete
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\obj\Debug\FPMAMLDataAccess.dll
+F:\Shauls Working 04-07-22\FPM_WorkSpace\Projects\FPMAML WEB\FPMAML DataAccess\obj\Debug\FPMAMLDataAccess.pdb

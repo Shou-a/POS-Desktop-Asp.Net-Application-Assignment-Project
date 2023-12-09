@@ -1,0 +1,83 @@
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.exe.config
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.exe.manifest
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.application
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.exe
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.pdb
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\dataAccess.dll
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\SubSonic.dll
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\MySql.Data.dll
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\System.Data.SQLite.dll
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\dataAccess.pdb
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\dataAccess.dll.config
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\SubSonic.pdb
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\bin\Debug\SubSonic.xml
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csprojAssemblyReference.cache
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Dashboard.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmIngredient.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmInventory.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainIngredient.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainInventory.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmDiscount.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainDiscount.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmOrderProccess.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmOrdersList.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.LoginScreen.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.maintainCategory.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.MaintainProduct.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.OrderDashboard.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Product_Category.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Products.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.splashScreen.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Properties.Resources.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csproj.GenerateResource.cache
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csproj.CoreCompileInputs.cache
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.exe.manifest
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.application
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csproj.CopyComplete
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.exe
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.pdb
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmUsersList.resources
+D:\Dot.Net_Projects\kheelBrabriPrac\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainUser.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.exe.config
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.exe.manifest
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.application
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.exe
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\kheelBrabriPrac.pdb
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\dataAccess.dll
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\MySql.Data.dll
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\System.Data.SQLite.dll
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\dataAccess.pdb
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\dataAccess.dll.config
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\SubSonic.pdb
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\bin\Debug\SubSonic.xml
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csprojAssemblyReference.cache
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Dashboard.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmIngredient.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmInventory.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainIngredient.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainInventory.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmDiscount.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainDiscount.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmMaintainUser.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmOrderProccess.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmOrdersList.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.frmUsersList.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.LoginScreen.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.maintainCategory.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.MaintainProduct.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.OrderDashboard.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Product_Category.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Products.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.splashScreen.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.Properties.Resources.resources
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csproj.GenerateResource.cache
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csproj.CoreCompileInputs.cache
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.exe.manifest
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.application
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.csproj.CopyComplete
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.exe
+D:\Shoua 04-07-2022\Dot Net Projects\POS\Code\kheelBrabriPrac\obj\Debug\kheelBrabriPrac.pdb

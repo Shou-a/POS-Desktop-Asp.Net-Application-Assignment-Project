@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="SubSonicService" type="SubSonic.SubSonicSection, SubSonic" requirePermission="false"/>
+  </configSections>
+
+  <appSettings/>
+
+  <connectionStrings>
+    <add name="ConnectionString" connectionString="Data Source=.;Initial Catalog=my_db;Integrated Security=True" providerName="Sql.Data.SqlClient"/>
+  </connectionStrings>
+
+
+  <SubSonicService defaultProvider="Provider">
+    <providers>
+      <clear/>
+      <add name="Provider" type="SubSonic.SqlDataProvider, SubSonic" connectionStringName="ConnectionString" generatedNamespace="DataAccess"/>
+    </providers>
+  </SubSonicService>
+
+  <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+    </startup>
+</configuration>
